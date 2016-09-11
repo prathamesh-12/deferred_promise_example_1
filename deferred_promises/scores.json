@@ -1,0 +1,13 @@
+{
+  "Player" : [
+      {
+        "name" : "Sachin Tendulkar", "runs" : 100  
+      },
+      {
+        "name" : "Virat Kohli", "runs" : 150  
+      },
+      {
+        "name" : "Ajinkya Rahane", "runs" : 200  
+      }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+  "Player": {
+    "batsman": [
+      "Sachin Tendulkar",
+      "Virat Kohli",
+      "Ajinkya Rahane"
+    ],
+    "bowler": [
+      "R Ashwin",
+      "B Kumar"
+    ],
+    "allrounder": "Yuvraj",
+    "captain": "MS Dhoni"
+  }
+}
